@@ -1,3 +1,4 @@
+
 // This sketch is part of the ReCode Project - http://recodeproject.com
 // From Computer Graphics and Art vol2 no4 cover
 // by Roger Coqart
@@ -8,6 +9,7 @@
 // Creative Commons license CC BY-SA 3.0
 
 int margin = 40;
+import java.util.*;
 
 //specify rows & cols of grid on screen
 int screenRows = 3;
